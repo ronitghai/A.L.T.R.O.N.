@@ -1,7 +1,7 @@
 # A.L.T.R.O.N.
 
 ### Overview
-**ALT.R.O.N.** is a desktop-based AI assistant that manages tasks, reminders, and notes through natural language input, offering a lightweight productivity solution powered by NLP.
+**A.L.T.R.O.N.** is a desktop-based AI assistant that manages tasks, reminders, and notes through natural language input, offering a lightweight productivity solution powered by NLP.
 
 ### Tech Stack
 - **Language**: Python
